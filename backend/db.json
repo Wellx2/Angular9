@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta",
+      "description": " Caneta Azul, Azul Caneta",
+      "price": "4.00"
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "description": " O Notebook para amantes de Apple",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+",
+      "description": "Celular com zoom 100x",
+      "price": "8000.00"
+    },
+    {
+      "id": 4,
+      "name": "Rog Phone 3",
+      "description": " O celular que Todo mundo Quer ter S2",
+      "price": 10000.01
+    },
+    {
+      "name": "Geladeira IOT",
+      "description": "Geladeira com Tablet na porta. (Preço Atualizado)",
+      "price": "12157.98",
+      "id": 5
+    }
+  ]
+}
